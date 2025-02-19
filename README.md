@@ -1,2 +1,4 @@
 # TestRepo
-Semplice repository di test per DAMI23
+Just a test repository for the DAMI23 Academy
+
+Hey there, this is my first Git Repo!
